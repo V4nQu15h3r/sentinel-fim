@@ -132,8 +132,3 @@ python -m unittest discover -s tests -v
 
 If you intentionally add new files to a monitored directory, re-run `init` to refresh the baseline — otherwise SentinelFIM will treat them as unauthorized on the next scan.
 
----
-
-## License
-
-Add your preferred license here (e.g. MIT) before publishing.
