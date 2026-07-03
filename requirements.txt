@@ -1,0 +1,8 @@
+# SentinelFIM has zero external dependencies.
+#
+# It is built entirely on Python's standard library:
+#   os, stat, sys, json, time, shutil, hashlib, argparse, pathlib, datetime
+#
+# This file is intentionally left without packages so that `pip install -r
+# requirements.txt` completes instantly on any machine with Python 3.8+
+# and no internet access is required to run the tool.
