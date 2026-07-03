@@ -64,7 +64,7 @@ sentinel-fim/
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/sentinel-fim.git
+git clone https://github.com/INVIZIBLE84/sentinel-fim.git
 cd sentinel-fim
 ```
 
